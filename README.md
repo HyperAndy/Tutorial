@@ -1,5 +1,5 @@
-##CTR competition
-#some references：
+## CTR competition
+# some references：
 Here are some reference papers about CTR/CVR prediction, which may be helpful to this competition.
 
 Ad Click Prediction a View from the Trenches, KDD 2013
